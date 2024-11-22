@@ -1,0 +1,4 @@
+django
+pyjwt
+django-allauth
+instagrapi
